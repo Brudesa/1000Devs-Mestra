@@ -1,0 +1,77 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CalculadoraImc",
+      "request": "launch",
+      "mainClass": "CalculadoraImc",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "calculadoraImc",
+      "request": "launch",
+      "mainClass": "calculadoraImc",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "mediaAlunos",
+      "request": "launch",
+      "mainClass": "mediaAlunos",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "FolhaPagto",
+      "request": "launch",
+      "mainClass": "FolhaPagto",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Granja",
+      "request": "launch",
+      "mainClass": "Granja",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "QtdFerraduras",
+      "request": "launch",
+      "mainClass": "QtdFerraduras",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "SalarioMineFunc",
+      "request": "launch",
+      "mainClass": "SalarioMineFunc",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "Sanduiches",
+      "request": "launch",
+      "mainClass": "Sanduiches",
+      "projectName": "Exercicios_a36d8e7c"
+    },
+    {
+      "type": "java",
+      "name": "TerrenoImobiliaria",
+      "request": "launch",
+      "mainClass": "TerrenoImobiliaria",
+      "projectName": "Exercicios_a36d8e7c"
+    }
+  ]
+}
