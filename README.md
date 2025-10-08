@@ -9,7 +9,7 @@ O objetivo é demonstrar proficiência nas tecnologias fundamentais do curso, be
 
 ### Status do Projeto
 
-✅ **[EM DESENVOLVIMENTO | CONCLUÍDO | MANUTENÇÃO]**
+✅ **EM DESENVOLVIMENTO | CONCLUÍDO | MANUTENÇÃO**
 
 ---
 
@@ -21,7 +21,7 @@ O projeto utiliza uma arquitetura Full-Stack, com ênfase nas seguintes tecnolog
 * **Back-End:** **Java** (Lógica de Negócios e Segurança).
 * **Comunicação:** **API RESTful** para troca de dados entre Front-end e Back-end.
 * **Metodologia:** **Git** & **GitHub** (Controle de Versão) e aplicação de **Soft Skills** (Análise de Requisitos e Comunicação).
-* **APIs Externas:** Integrações com **.
+* **APIs Externas:** .
 
 ---
 
@@ -34,13 +34,6 @@ Este repositório contém as seguintes verticais de desenvolvimento:
 | **Portfólio Pessoal** | HTML, CSS, JS | Página para apresentação de projetos e habilidades. | EM DESENVOLVIMENTO
 | **Sistema de Biblioteca** | Java, JS | Sistema CRUD completo para gerenciamento de empréstimos de livros. | EM PLANEJAMENTO
 | **Soluções de Saúde** | Java / JS | Programas específicos solicitados por mantenedores da área de saúde. | EM PLANEJAMENTO
-
----
-
-3.  **Execução do Front-End (HTML/JS):**
-    * Navegue até a pasta do Front-end (ex: `sistema-biblioteca/frontend`).
-    * Abra o arquivo `index.html` em seu navegador.
-    * *Nota:* O JavaScript fará requisições para a API em `http://localhost:8080` (ou porta configurada).
 
 ---
 
@@ -60,10 +53,6 @@ Este projeto foi desenvolvido por:
 
 | Nome | GitHub | LinkedIn |
 | :--- | :--- | :--- |
-| **[Bruna de Sá]** | [https://github.com/Brudesa] | [linkedin.com/in/brunade-sa/] |
+| **Bruna de Sá** | https://github.com/Brudesa | linkedin.com/in/brunade-sa |
 
 ---
-
-## 📜 Licença
-
-Este projeto está licenciado sob a **[Nome da Licença, ex: MIT License]**. Veja o arquivo `LICENSE` para mais detalhes.
